@@ -5,15 +5,15 @@
   h1 {
     font-size: 150px;
   }
-  
+
   .dropZone {
     margin-top: 20px;
     margin-left: 5%;
     margin-right: 5%;
     padding-top: 5px;
     padding-bottom: 0px;
-    height: 51vh;
-    background-color: #202125;
+    height: h1vh;
+    background-color: #1c4ae0;
     border-radius: 20px;
     color: white;
   }
